@@ -1,0 +1,15 @@
+Person,Education,MaritalStatus,Sex,HasChildren,Approved
+1,Primary,Single,Male,No,No
+2,Primary,Single,Male,Yes,No
+3,Primary,Married,Male,No,Yes
+4,University,Divorced,Female,No,Yes
+5,University,Married,Female,Yes,Yes
+6,Secondary,Single,Male,No,No
+7,University,Single,Female,No,Yes
+8,Secondary,Divorced,Female,No,Yes
+9,Secondary,Single,Female,Yes,Yes
+10,Secondary,Married,Male,Yes,Yes
+11,Primary,Married,Female,No,Yes
+12,Secondary,Divorced,Male,Yes,No
+13,University,Divorced,Female,Yes,No
+14,Secondary,Divorced,Male,No,Yes

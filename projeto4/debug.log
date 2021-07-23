@@ -1,0 +1,30 @@
+[1218/194735.777:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1219/150810.025:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1219/160328.699:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1219/164105.304:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/165436.036:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/165436.040:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/170447.324:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1219/170447.362:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\9197d417-732e-4985-9a2d-defcf4247510: The system cannot find the path specified. (0x3)
+[1219/170447.374:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f535fd64-bced-4cd4-b4ac-71b2ae0ef9a0: The system cannot find the path specified. (0x3)
+[1219/170447.384:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f22ec7e2-92fc-4c6c-9a30-7972c552c710: The system cannot find the path specified. (0x3)
+[1219/170447.394:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\b9ed9ceb-dd6a-4c04-9a49-bebd012ce486: The system cannot find the path specified. (0x3)
+[1219/180219.877:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/180221.015:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/181759.262:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1219/181759.297:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\ea95994e-2548-4914-a8b7-09adb1197b68: The system cannot find the path specified. (0x3)
+[1219/181759.309:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\32b0d4ac-1ec9-4765-87c0-f9fc9bc396d9: The system cannot find the path specified. (0x3)
+[1219/184949.644:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1219/192051.869:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/150016.037:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/152148.666:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/173743.308:ERROR:process_info.cc(359)] UncheckedAllocate
+[1220/173743.335:ERROR:process_info.cc(359)] UncheckedAllocate
+[1220/175130.959:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/175131.000:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\2751ae0e-c90a-4834-8788-b054a578adb0: The system cannot find the path specified. (0x3)
+[1220/175131.012:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\b8fedb0c-a577-44b1-8a02-b7abe14ec4d9: The system cannot find the path specified. (0x3)
+[1220/175131.024:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\88b9d170-282b-46dd-aea9-2f21130df902: The system cannot find the path specified. (0x3)
+[1220/175131.036:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\2fb19e24-a644-4e6c-9c8c-3879dab676fb: The system cannot find the path specified. (0x3)
+[1220/175131.046:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\7ad24045-e7fe-4e90-9adb-c92a328a1adb: The system cannot find the path specified. (0x3)
+[1220/175131.060:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\de614f34-a76b-4259-bc5e-62af15831bc2: The system cannot find the path specified. (0x3)
+[1220/175131.069:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saraq\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a0306dd1-1eea-4bf8-adc5-32b40e822d0c: The system cannot find the path specified. (0x3)
